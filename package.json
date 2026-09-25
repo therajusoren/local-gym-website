@@ -1,0 +1,24 @@
+{
+  "name": "total-fitness-gym",
+  "version": "1.0.0",
+  "description": "Premium, modern, highly polished website for Total Fitness Gym in Chanchalguda, Hyderabad",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "fitness",
+    "gym",
+    "hyderabad",
+    "chanchalguda",
+    "total-fitness"
+  ],
+  "author": "Total Fitness Gym",
+  "license": "ISC",
+  "devDependencies": {
+    "esbuild": "^0.28.2",
+    "vite": "^8.3.0"
+  }
+}
